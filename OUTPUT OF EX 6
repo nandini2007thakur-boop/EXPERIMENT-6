@@ -1,0 +1,8 @@
+Enter the main string: I like apples and apples are sweet
+Enter the pattern string: apple
+Enter the replacement string: orrange
+
+Modified String: I like orranges and orranges are sweet
+
+
+=== Code Execution Successful ===
